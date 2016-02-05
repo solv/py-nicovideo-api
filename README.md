@@ -1,2 +1,6 @@
-# py-nicovideo-api
-Pythonで記述されたニコニコ動画に関するライブラリ
+﻿# py-nicovideo-api
+ニコニコ動画APIラッパーライブラリ
+
+# Description
+ニコニコ動画に関するデータ・情報を取得するためのライブラリです。
+基本的にニコニコ動画APIのラッパーとなります。
